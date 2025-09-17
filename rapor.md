@@ -6,10 +6,8 @@
 
 **Proje Adı:** Through the Radar Looking Glass - Türkiye Volkan Erken Uyarı Sistemi  
 **Challenge:** Through the Radar Looking Glass: Revealing Earth Processes with SAR  
-**Takım Hedef Boyutu:** 6 kişi  
-**Hackathon Tarihi:** 4-5 Ekim 2025  
-**Hazırlık Süresi:** 18 gün (17 Eylül - 5 Ekim)  
-**Rapor Tarihi:** 17 Eylül 2025
+**Takım Boyutu:** 6 kişi  
+**Hackathon Tarihi:** 4-5 Ekim 2025
 
 ---
 
